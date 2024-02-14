@@ -17,15 +17,6 @@ YPA is a productivity mobile application that consists of a to-do list, long-ter
 <img src = "https://github.com/kcrmin/YPA_App/assets/73128364/e1adbddb-bce0-4a28-9998-36ca76d9d09f" width="300">
 <img src = "https://github.com/kcrmin/YPA_App/assets/73128364/0e48b17a-f6ca-4cc9-960c-4adb053439fd" width="300">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributors
+- Maggie Guo (guomeiqi)
+- Minseo Cho (skyminseo)
